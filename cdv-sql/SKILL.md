@@ -626,4 +626,5 @@ SELECT UUID();;
 
 For exhaustive function documentation with full examples, constraints, edge cases, and the complete type conversion matrix, consult:
 
-**`CData_Virtuality_SQL_Reference.md`** in the project root.
+**`CData_Virtuality_SQL_Reference.md`**.
+
